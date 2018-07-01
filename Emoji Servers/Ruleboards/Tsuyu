@@ -1,0 +1,32 @@
+{
+  "username": "Tsuyu Asui",
+  "avatar_url": "https://i.imgur.com/ht9X8nL.jpg",
+  "embeds": [
+    {
+      "title": "Ruleboard",
+    "description": "*Violations of the rules and Gaius auto-mod will result in harsh action.*",
+      "color": 4238409,
+      "footer": {
+        "text": "These rules are subject to change at anytime without notice."
+      },
+      "fields": [
+      {
+        "name": ":one: Be wholesome",
+        "value": "Treat others with kindness and respect. Follow Discord's Community Guidelines found here: https://discordapp.com/guidelines/\n ** **"
+      },
+      {
+        "name": ":two: Respect the text channels you have access to",
+        "value": "No spamming, unwholesome text/images, spam, spam pings and what not.\n ** **"
+      },
+      {
+        "name": ":three: Staff have the final verdict",
+        "value": "If a staff member or bot tells you to stop, stop. We will not hestitate to ban harmful/toxic users.\n ** **"
+      },
+      {
+        "name": ":four: Need a staff?",
+        "value": "Ping <@&460616009338978304>. Not not ping multiple times unless it's an emergency.\n ** **"
+      }
+      ]
+    }
+  ]
+}
