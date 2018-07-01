@@ -3,10 +3,6 @@
     {
       "title": "Frequently Asked Questions",
       "color": 14134345,
-      "timestamp": "2018-05-30T05:36:13.583Z",
-      "footer": {
-        "text": "Go beyond, plus ultra!"
-      },
       "fields": [
       {
         "name": "How do I submit an emoji?",
@@ -22,7 +18,7 @@
       },
       {
         "name": "Do you want partner requests?",
-        "value": "No.\n ** **"
+        "value": "No."
       }
       ]
     }
