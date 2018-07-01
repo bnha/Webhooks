@@ -1,0 +1,26 @@
+{
+  "username": "Izuku Midoriya",
+  "avatar_url": "https://i.imgur.com/ZMYIaD3.jpg",
+  "embeds": [
+    {
+      "title": "Deku Emojis",
+      "description": "Izuku is a very timid, helpful and polite boy, frequently overreacting to abnormal situations with exaggerated expressions. Due to being bullied since childhood for being born without a Quirk, he is initially portrayed as insecure, being more reserved and not self-expressive, especially in front of Katsuki Bakugo, who constantly subdued him for his aspirations to be a hero.",
+      "color": 2650964,
+      "thumbnail": {
+        "url": "https://i.imgur.com/ZMYIaD3.jpg"
+      },
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/Nxq6kVD",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Izuku_Midoriya)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
