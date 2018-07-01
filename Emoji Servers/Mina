@@ -1,0 +1,27 @@
+{
+  "username": "Mina Ashido",
+  "avatar_url": "https://i.imgur.com/RKeiz6N.jpg",
+  "embeds": [
+    {
+      "title": "Mina  Emojis",
+      "description": "Mina's skin is tinted a pink color due to her acid quirk. Her eyes are dark with yellow irises. She has unruly, short pink hair with yellow horns protruding from her head. She is of medium height and set more broadly than some of her other female classmates. Mina is cheerful and most of the time seen with a smile on her face. She is easily excited, but also very emotional and easily brought to tears in various situations, out of relief, out of sadness and out of frustration.",
+      "color": 16169674,
+      "thumbnail": {
+        "url": "https://i.imgur.com/RKeiz6N.jpg"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/P9hgMzW",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Mina_Ashido)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
