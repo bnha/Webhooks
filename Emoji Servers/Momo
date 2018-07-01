@@ -1,0 +1,27 @@
+{
+  "username": "Momo Yaoyorozu",
+  "avatar_url": "https://i.imgur.com/2MmnfZe.png",
+  "embeds": [
+    {
+      "title": "Momo  Emojis",
+      "description": "Momo is a teenage girl with a mature physique for her age, with a tall curvaceous figure. She has cat shaped onyx colored eyes and long black hair. Momo is a very intelligent, dedicated person who acts as a natural leader. She is generally very level-headed and calm even in very dangerous situations, but she isn't above falling into a panic.",
+      "color": 9443356,
+      "thumbnail": {
+        "url": "https://i.imgur.com/2MmnfZe.png"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/EY5T2Mq",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Momo_Yaoyorozu)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
