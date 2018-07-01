@@ -1,0 +1,26 @@
+{
+  "username": "Himiko Toga",
+  "avatar_url": "https://i.imgur.com/vmUMlMO.png",
+  "embeds": [
+    {
+      "title": "Toga  Emojis",
+      "description": "Himiko is a very cheerful girl, to the point of smiling even after having presumably killed someone, displaying apparent sadistic tendencies. Even when danger is imminent, as when Tomura Shigaraki was about to attack her, Himiko continues smiling. She's also frequently seen blushing, though seemingly out of excitement rather than embarrassment, giving her a permanent somewhat lovesick look on her face.",
+      "color": 14134345,
+      "thumbnail": {
+        "url": "https://i.imgur.com/vmUMlMO.png"
+      },
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/ETTqGym",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Himiko_Toga)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
