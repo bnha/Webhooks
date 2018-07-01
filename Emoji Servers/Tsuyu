@@ -1,0 +1,26 @@
+{
+  "username": "Tsuyu Asui",
+  "avatar_url": "https://i.imgur.com/ht9X8nL.jpg",
+  "embeds": [
+    {
+      "title": "Tsuyu Emojis",
+      "description": "Tsuyu is a short girl with a frog-like appearance. She has long, dark sea-green hair which she ties in a bow on her back. She has very wide eyes with pure black irises and distinctive lower eyelashes. Like a frog, she has a wide mouth.",
+      "color": 4238409,
+      "thumbnail": {
+        "url": "https://i.imgur.com/ht9X8nL.jpg"
+      },
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/r3nqg34",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Tsuyu_Asui)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
