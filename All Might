@@ -1,0 +1,27 @@
+{
+  "username": "Toshinori Yagi",
+  "avatar_url": "https://i.imgur.com/hqagbBJ.png",
+  "embeds": [
+    {
+      "title": "All Might  Emojis",
+      "description": "All Might was the eighth holder of the One For All Quirk after receiving it from Nana Shimura. He has since passed the torch to Izuku Midoriya, whom he is grooming to be his successor. After using up all the embers of One for All to defeat All For One, All Might retired and ended his era as the world's greatest hero.",
+      "color": 15981122,
+      "thumbnail": {
+        "url": "https://i.imgur.com/hqagbBJ.png"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/qy7bcbK",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Toshinori_Yagi)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
