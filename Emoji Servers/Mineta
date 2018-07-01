@@ -1,0 +1,27 @@
+{
+  "username": "Minoru Mineta",
+  "avatar_url": "https://i.imgur.com/luslXVm.jpg",
+  "embeds": [
+    {
+      "title": "Minoru Mineta",
+      "description": "Minoru is very tiny, being much shorter than most of the characters. He has a big head with large eyes and hair resembling grapes. Minoru is perverted to the point of infamy, which makes him unpopular with the girls and even some of the boys, who consider his interests and mannerisms depraved. When an opportunity to peep at the girls arises, Minoru becomes very determined to take it, although this often leads to painful results. ",
+      "color": 7019925,
+      "thumbnail": {
+        "url": "https://i.imgur.com/luslXVm.jpg"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/Tt8a6xd",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Minoru_Mineta)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
