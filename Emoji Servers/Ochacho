@@ -1,0 +1,26 @@
+{
+  "username": "Ochaco Uraraka",
+  "avatar_url": "https://i.imgur.com/DGMVlvD.png",
+  "embeds": [
+    {
+      "title": "Ochaco Emojis",
+      "description": "Ochaco is a bubbly, lively person who thinks about everything positively, while still being objective enough to seeing flaws and virtues of something or someone, noticing their differences but respect them as she thinks all things/beings complement each other. She is very harmonic and empathetic in general, friendly to those she meets, and will also try to help or defend anyone that previously came to her aid, especially to her dear ones.",
+      "color": 8142110,
+      "thumbnail": {
+        "url": "https://i.imgur.com/DGMVlvD.png"
+      },
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/8Gsx9H3",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Ochaco_Uraraka)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
