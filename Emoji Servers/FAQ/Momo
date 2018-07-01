@@ -1,0 +1,28 @@
+{
+  "username": "Momo Yaoyorozu",
+  "avatar_url": "https://i.imgur.com/2MmnfZe.png",
+  "embeds": [
+    {
+      "title": "Frequently Asked Questions",
+      "color": 9443356,
+      "fields": [
+      {
+        "name": "How do I submit an emoji?",
+        "value": "Post the image and name you think would fit best. E.g `:DekuHey:` and the image upload. If the community thinks it's a good idea we'll add it!\n** **"
+      },
+      {
+        "name": "How do I get the original image or file for an emote?",
+        "value": "Open **#files**. We post all approved emojis there.\n ** **"
+      },
+      {
+        "name": "What can I suggest for an emote?",
+        "value": "You can suggest anything that is **__Momo Yaoyorozu__**. They should be original and something you've created or have permission to submit.\n ** **"
+      },
+      {
+        "name": "Do you want partner requests?",
+        "value": "No."
+      }
+      ]
+    }
+  ]
+}
