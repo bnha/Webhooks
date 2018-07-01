@@ -1,0 +1,27 @@
+{
+  "username": "Katsuki Bakugo",
+  "avatar_url": "https://i.imgur.com/if4l08F.png",
+  "embeds": [
+    {
+      "title": "Kacchan  Emojis",
+      "description": "Katsuki is a young man of average height, with ash blond, spiky hair and sharp red eyes. Katsuki is a very crude, violent, arrogant, and aggressive person. Having an attitude reminiscent of a teenage delinquent, Katsuki tends to come off as very anti-heroic, if not downright villainous. This problematic behavior goes all the way back to his early childhood days when he was known to bully a young, Quirkless Izuku Midoriya. ",
+      "color": 15852235,
+      "thumbnail": {
+        "url": "https://i.imgur.com/if4l08F.png"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/YC9cWYz",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Katsuki_Bakugo)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
