@@ -1,0 +1,26 @@
+{
+  "username": "Kyoka Jiro",
+  "avatar_url": "https://i.imgur.com/wwboINU.jpg",
+  "embeds": [
+    {
+      "title": "Jiro  Emojis",
+      "description": "Kyoka has a somewhat pragmatic, unenthusiastic and rude personality which is shown a lot to those she finds irritating, in particular her fellow classmate Denki Kaminari, who happens to be the most common target of her snarky comments. She can also be quite aggressive and may use her Quirk to physically punish people or to keep them in line, notably Denki and Minoru Mineta.",
+      "color": 5261174,
+      "thumbnail": {
+        "url": "https://i.imgur.com/wwboINU.jpg"
+      },
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/A8XE4Xv",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Kyoka_Jiro)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
