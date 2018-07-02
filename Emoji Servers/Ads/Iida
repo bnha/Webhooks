@@ -1,0 +1,27 @@
+{
+  "username": "Tenya Iida",
+  "avatar_url": "https://i.imgur.com/k86kClN.png",
+  "embeds": [
+    {
+      "title": "Iida  Emojis",
+      "description": "Tenya may look severe, but he's actually a very straightforward, earnest, intelligent and serious person. He tends to take everything very seriously, and because of this, he has a habit of jumping to conclusions, then enthusiastically speaking or acting based on said conclusions.",
+      "color": 2909633,
+      "thumbnail": {
+        "url": "https://i.imgur.com/k86kClN.png"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/WP4B89U",
+          "inline": true
+        },
+        {
+          "name": "Wiki page",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/Toshinori_Yagi)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
