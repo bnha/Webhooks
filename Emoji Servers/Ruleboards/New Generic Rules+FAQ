@@ -1,0 +1,43 @@
+{
+  "username": "Info Hero",
+  "avatar_url": "https://i.imgur.com/H0HiHgR.png",
+  "embeds": [
+    {
+      "title": "Ruleboard",
+      "description": "*Violations of the rules and/or Gaius auto-mod will result in harsh action.*",
+      "color": 2303786,
+      "fields": [
+        {
+          "name": "Abide by the Discord Guidelines and Terms of Service",
+          "value": "[Click to view them](https://discordapp.com/guidelines)",
+          "inline": false
+        },
+        {
+          "name": "Generic Rules",
+          "value": "**1)** Be wholesome.\n**2)** Respect the text channels you have access to.\n**3)** Staff have the final verdict.\n**4)** Need a staff? Ping **@Staff**, do not ping multiple times unless it's an emergency.",
+          "inline": false
+        },
+        {
+          "name": "How do I submit an emoji?",
+          "value": "Post the image and name you think would fit best. E.g ``:DekuHey:``. If the community thinks it's a good idea we'll add it!",
+          "inline": false
+        },
+        {
+          "name": "How do I get the original image or file for an emote?",
+          "value": "Open **#files**. We post all approved emojis there.",
+          "inline": false
+        },
+        {
+          "name": "What can I suggest for an emote?",
+          "value": "You can suggest anything that is related to this servers character. They should be original and something you've created or have permission to submit.",
+          "inline": false
+        },
+        {
+          "name": "Do you want partner requests?",
+          "value": "No.",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
