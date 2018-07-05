@@ -1,0 +1,73 @@
+{
+  "username": "Info Hero",
+  "avatar_url": "https://i.imgur.com/H0HiHgR.png",
+  "embeds": [
+    {
+      "title": "My Hero Academia Emote Server Network",
+      "description": "Sponsored by the [My Hero Academia Wiki](https://bokunoheroacademia.wikia.com/wiki/My_Hero_Academia_Wiki)",
+      "color": 2303786,
+      "fields": [
+        {
+          "name": "Momo",
+          "value": "[Click to join](https://discord.gg/EY5T2Mq)",
+          "inline": true
+        },
+        {
+          "name": "Mina",
+          "value": "[Click to join](https://discord.gg/P9hgMzW)",
+          "inline": true
+        },
+        {
+          "name": "Bakugo",
+          "value": "[Click to join](https://discord.gg/YC9cWYz)",
+          "inline": true
+        },
+        {
+          "name": "Mineta",
+          "value": "[Click to join](https://discord.gg/r8z9FBc)",
+          "inline": true
+        },
+        {
+          "name": "Ochaco",
+          "value": "[Click to join](https://discord.gg/8Gsx9H3)",
+          "inline": true
+        },
+        {
+          "name": "Jiro",
+          "value": "[Click to join](https://discord.gg/A8XE4Xv)",
+          "inline": true
+        },
+        {
+          "name": "Deku",
+          "value": "[Click to join](https://discord.gg/Nxq6kVD)",
+          "inline": true
+        },
+        {
+          "name": "All Might",
+          "value": "[Click to join](https://discord.gg/qy7bcbK)",
+          "inline": true
+        },
+        {
+          "name": "Todoroki",
+          "value": "Soon:tm:",
+          "inline": true
+        },
+        {
+          "name": "Toga",
+          "value": "[Click to join](https://discord.gg/ETTqGym)",
+          "inline": true
+        },
+        {
+          "name": "Tsuyu",
+          "value": "[Click to join](https://discord.gg/r3nqg34)",
+          "inline": true
+        },
+        {
+          "name": "Iida",
+          "value": "[Click to join](https://discord.gg/JPfsaMB)",
+          "inline": true
+        }      
+      ]
+    }
+  ]
+}
