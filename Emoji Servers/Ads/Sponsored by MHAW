@@ -1,0 +1,29 @@
+{
+  "embeds": [
+    {
+      "title": "Sponsored by the My Hero Academia Wiki",
+      "description": "A wiki dedicated to everything about the manga My Hero Academia created by Kohei Horikoshi. \n** **\nHelp us by creating or editing any of our articles!",
+      "color": 2650964,
+      "timestamp": "2018-06-01T04:51:58.586Z",
+      "footer": {
+        "text": "Last Updated"
+      },
+      "thumbnail": {
+        "url": "https://i.imgur.com/dfJQGiV.png"
+      },
+
+      "fields": [
+        {
+          "name": "Invite",
+          "value": "https://discord.gg/HGDd75w",
+          "inline": true
+        },
+        {
+          "name": "Website",
+          "value": "[Click to open](http://bokunoheroacademia.wikia.com/wiki/My_Hero_Academia_Wiki)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
