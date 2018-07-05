@@ -1,0 +1,19 @@
+{
+  "embeds": [
+    {
+      "title": "Breaking News from the Homeroom district",
+      "description": "A massive fierce battle took place earlier leaving it in ruins. 4 Major battles took place with changing sides, unexpected twists and teams. The battles shook the lands from General to Hideout.\n** **\nNo lives have been reported lost but many were injured in the frey. Ultimately our symbol of peace <@104425482757357568> won after a series of large blows and attacks.\n** **\nThe original fight was over <@316843304685928450> who was saved in the end, battles are becoming more common, is this rise in crime related to the amount of evil Froppys around? More at seven!",
+      "color": 9443356,
+      "footer": {
+      "text": "Replay of final moments after All Might decisive blow"
+      },
+      "image": {
+      "url": "https://cdn.discordapp.com/attachments/213799857536630785/463547478965354506/Final_Win.gif"
+      },
+      "author": {
+        "name": "Crybaby Reporter",
+        "icon_url": "https://i.imgur.com/tcc9cre.png"
+      }
+    }
+  ]
+}
