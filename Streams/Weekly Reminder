@@ -1,0 +1,29 @@
+{
+  "content": "Just a reminder <@&434622403365175306>",
+  "embeds": [
+    {
+      "description": "We're streaming the latest episode this Saturday at 4:30AM **CST**! \nWe hope to see you there!\n ** **\n**Learn more about stream nights by visiting [this](https://myheroacademia.info/stream/) page!**",
+      "url": "https://discordapp.com",
+      "color": 9048865,
+      "timestamp": "2018-06-13T04:51:08.054Z",
+      "footer": {
+        "text": "Plus Ultra!"
+      },
+      "author": {
+        "name": "My Hero Academia Season 3"
+      },
+      "fields": [
+        {
+          "name": "Title",
+          "value": "**One For All**",
+          "inline": true
+        },
+        {
+          "name": "Episode",
+          "value": "**11**",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
