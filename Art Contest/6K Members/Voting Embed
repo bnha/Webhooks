@@ -1,0 +1,22 @@
+{
+  "username": "Midnight",
+  "avatar_url": "https://i.imgur.com/GHynlc6.png",
+  "embeds": [
+    {
+      "title": "Artwork Name",
+      "description": "By <@USERIDHERE>",
+      "color": 9443356,
+      "footer": {
+      "text": "Early design/sketch/concept"
+      },
+      "image": {
+      "url": "https://getuikit.com/v2/docs/images/placeholder_600x400.svg"}
+    },
+    {
+      "title": "Final Version",
+      "color": 2650964,
+      "image": {
+      "url": "https://getuikit.com/v2/docs/images/placeholder_600x400.svg"}
+    }
+  ]
+}
