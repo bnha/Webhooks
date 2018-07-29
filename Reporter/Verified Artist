@@ -1,0 +1,21 @@
+{
+  "embeds": [
+    {
+      "title": "Wow just wow, absolutely marvelous!",
+      "description": "Coming from the Twitter district <@USERIDHERE> has presented astonishing skills <@104425482757357568> has noticed and was absolutely amazed by! Congratulations, PLUS ULTRA!",
+      "color": 15981122,
+      "image": {
+      "url": "https://getuikit.com/v2/docs/images/placeholder_600x400.svg"
+      },
+      "author": {
+        "name": "Uwabami",
+        "icon_url": "https://i.imgur.com/FKZDZJ5.png"
+      }
+    },
+    {
+      "title": "Verified Artist",
+      "color": 1942002,
+      "description": "We've verified their Twitter account which has many amazing artworks of hers posted on it. If you're interested in more of her work I recommend taking a look at it on [Twitter](https://twitter.com/NAME/) - All Might"
+    }
+  ]
+}
