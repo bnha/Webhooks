@@ -1,0 +1,15 @@
+{
+  "content": "Just a reminder <@&434622403365175306>",
+  "embeds": [
+    {
+      "title":":clock2: My Hero Academia Season 3",
+      "description":"We're streaming **Episode 16 - 'Shiketsu High Lurking'** tonight on [**rabb.it**](https://www.rabb.it/).",
+      "color": 9048865
+    },
+    {
+      "title": ":satellite: Want to watch the stream and haven't gotten the Stream role yet?",
+      "color": 16773429,
+      "description": "Do `!!Stream`, when we post the stream links and information you'll get notified"
+    }
+    ]
+}
