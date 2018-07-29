@@ -1,0 +1,27 @@
+{
+  "content":"New section added to <#433744776358264843>",
+  "embeds": [
+    {
+      "title": "Stream Information",
+      "description": "Every week we stream the latest episode of **My Hero Academia** as soon as it comes out in **Sub** and sometimes **Dub**!",
+      "color": 9048865,
+      "timestamp": "2018-06-09T06:35:59.468Z",
+      "footer": {
+        "text": "Have a question? DM Tea or All Might"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/213799857536630785/454896739112189952/image.jpg"
+      },
+      "fields": [
+        {
+          "name": "How do i join the streams?",
+          "value": "https://myheroacademia.info/stream/"
+        },
+        {
+          "name": "Is there a countdown?",
+          "value": "https://myheroacademia.info/stream/"
+        }
+      ]
+    }
+  ]
+}
