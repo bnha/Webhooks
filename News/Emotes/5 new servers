@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "New emote servers released!",
+      "description": "Time for some new emote servers to be released wooo ~~help my server list is too big now~~. \n** **\nWe're adding the following characters from the series: **Momo, Mina, Mineta, Iida, Kacchan**\n** **\nEnjoy your new emotes! - Staff Team",
+      "color": 14134345,
+      "footer": {
+        "text": "Fantastic art by kktwojingle AKA Gunhead (kk)"
+      },
+      "image": {
+        "url": "https://i.imgur.com/NCAriKP.png"
+      }
+    }
+  ]
+}
