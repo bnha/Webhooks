@@ -1,0 +1,23 @@
+{
+  "embeds": [
+    {
+      "title": "Previews for tonights episode!",
+      "description": "**Episode #16** - '**Shiketsu High Lurking**'",
+      "color": 9048865,
+      "timestamp": "2018-06-09T05:24:00.950Z",
+      "footer": {
+        "text": "Plus Ultra!"
+      },
+      "fields": [
+        {
+          "name": "Sub Preview",
+          "value": "https://www.youtube.com/watch?v=jqGKGtzhcf0"
+        },
+        {
+          "name": "Dub Preview",
+          "value": "https://youtu.be/rx_ARcQhd-Y"
+        }
+      ]
+    }
+  ]
+}
