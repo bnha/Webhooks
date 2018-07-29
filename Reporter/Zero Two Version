@@ -1,0 +1,16 @@
+{
+  "embeds": [
+    {
+      "title": "ZERO TWO.... DARLING! ZERO TWO.... DARLING! DAISUKI DESU!",
+      "description": "Coming from an unknown alien district <@367781777202216970> has presented skills even <@104425482757357568> has noticed! Congratulations!",
+      "color": 2650964,
+      "image": {
+      "url": "https://cdn.discordapp.com/attachments/419320119831822337/472938711013785610/003_emote.png"
+      },
+      "author": {
+        "name": "Hiro",
+        "icon_url": "https://78.media.tumblr.com/8d8b4018043c562bf31aa06bb693e943/tumblr_p7k4o7tYN01v1hotuo1_540.gif"
+      }
+    }
+  ]
+}
