@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "Quadruple XP Event",
+      "description": "To Celebrate the Wikis 4th Birthday we have a 4x XP event going! Every edit and discussion post of yours is worth **4X!** Now's your chance to get some of the awesome roles we offer to Wiki Contributors! Good luck!\n** **\n**This event lasts till July 24th.**",
+      "color": 15981122,
+      "footer": {
+        "text": "Contributors, Go Beyond, Plus Ultra!"
+      },
+      "thumbnail": {
+        "url": "https://i.imgur.com/latWEsfh.jpg"
+      }
+    }
+  ]
+}
