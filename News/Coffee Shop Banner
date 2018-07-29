@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "New welcome banner!",
+      "description": "We have a new welcome banner! Unfortunately Chilis didn't work out well, Zim ate all our food constantly and we went in debt. BUT! We're opening a coffee shop now! \n** **\n~~Please, it's just mc donalds coffee rebranded, we're poor and under budget~~",
+      "color": 2650964,
+      "footer": {
+        "text": "Disclaimer: We are not responsible for any loss of quirks due to drinks containing Quirk Beans."
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/463420145293983744/467201678031061023/All-Might-Coffee-Drink-This.png"
+      }
+    }
+  ]
+}
