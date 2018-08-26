@@ -1,10 +1,12 @@
 {
-  "embed": {
-    "title": "Rulebook",
-    "description": "Please be sure to read this info before starting to chat, it contains very important information.\n** **\n● Abide by Discords [Terms of Service](https://discordapp.com/terms) and [Guidelines](https://discordapp.com/guidelines).\n● No spam (includes unnecessary flooding/caps spam, role-playing, disrupting conversations and overuse of symbols, mentions, emojis and repetitive words) Memes and shitposting are allowed to a degree in #homeroom \n● Avoid public drama, solve any issues in private or DM a moderator.\n● No advertising (includes inviting people to other servers). If you are invited by someone who you do not know to another server, report it to Staff immediately. In addition to the person who sent the invite, people who fail to report and join are at risk of being banned themselves.\n● Use only English (unless you are quoting text in the context of the series).\n● No awkward topics, like religion, politics, flirting, etc. This includes anything controversial as well as anything regarding suicide. Staff members are not counselors if necessary seek professional help.\n● People harassing, mass advertising their servers, sending malware or disturbing other members via DM will be banned.\n● Any further issue not stated here is up to the discretion of moderators\n● Abide by the channel descriptions and pinned rules.\n● Attempting to impersonate a Staff member (changing nickname and pfp to match that of a staff member) will result in a kick or ban\n● Do not discuss staff actions in the channels or staff DMs. If you wish to contest an infraction or discuss a staff action, please contact us [here](https://goo.gl/forms/GVdWLJZJewzxxwiH2).",    
-    "color": 9443356,
-    "image": {
-      "url": "https://i.imgur.com/5QBfLoG.gif"
+  "embeds": [
+    {
+      "title": "Rulebook",
+      "description": "Please be sure to read this info before starting to chat, it contains very important information.\n** **\n● Abide by Discords [Terms of Service](https://discordapp.com/terms) and [Guidelines](https://discordapp.com/guidelines).\n● No spam (includes unnecessary flooding/caps spam, role-playing, disrupting conversations and overuse of symbols, mentions, emojis and repetitive words) Memes and shitposting are allowed to a degree in #homeroom \n● Avoid public drama, solve any issues in private or DM a moderator.\n● No advertising (includes inviting people to other servers). If you are invited by someone who you do not know to another server, report it to Staff immediately. In addition to the person who sent the invite, people who fail to report and join are at risk of being banned themselves.\n● Use only English (unless you are quoting text in the context of the series).\n● No awkward topics, like religion, politics, flirting, etc. This includes anything controversial as well as anything regarding suicide. Staff members are not counselors if necessary seek professional help.\n● People harassing, mass advertising their servers, sending malware or disturbing other members via DM will be banned.\n● Any further issue not stated here is up to the discretion of moderators\n● Abide by the channel descriptions and pinned rules.\n● Attempting to impersonate a Staff member (changing nickname and pfp to match that of a staff member) will result in a kick or ban\n● Do not discuss staff actions in the channels or staff DMs. If you wish to contest an infraction or discuss a staff action, please contact us [here](https://goo.gl/forms/GVdWLJZJewzxxwiH2).",    
+      "color": 9443356,
+      "image": {
+        "url": "https://i.imgur.com/5QBfLoG.gif"
+      }
     }
-  }
+  ]
 }
