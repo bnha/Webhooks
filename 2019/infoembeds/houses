@@ -16,7 +16,7 @@
       "fields": [
         {
           "name": "How do I join a house?",
-          "value": "Go to <#416765849844580353> and choose your house by doing one of the commands below!\n** **\n**House of Bravery**: `!!bravery`\n**House of Brilliance**: `!!brilliance`\n**House of Balance**: `!!balance`"
+          "value": "React below to choose a house instantly!"
         }
       ]
     }
