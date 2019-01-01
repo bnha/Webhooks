@@ -1,0 +1,25 @@
+{
+  "embeds": [
+    {
+      "color": 16760613,
+      "image": {
+        "url": "https://i.imgur.com/I0Euomp.png"
+      }
+    },
+    {
+      "title": "Oumagadoki Zoo Manga",
+      "color": 16760613,
+      "description": "Oumagadoki Zoo and sometimes shortened to Oumazoo is a Japanese shōnen manga series written and illustrated by Kōhei Horikoshi. It has been serialized in Weekly Shōnen Jump since July 2010, and has been collected in five tankōbon volume as of August 2011.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "How do I subscribe to Oumazoo Manga news?",
+          "value": "React below to subscribe instantly!",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
