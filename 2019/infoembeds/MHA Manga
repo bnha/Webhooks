@@ -1,0 +1,25 @@
+{
+  "embeds": [
+    {
+      "color": 15692211,
+      "image": {
+        "url": "https://i.imgur.com/E1RhC4I.png"
+      }
+    },
+    {
+      "title": "My Hero Academia Manga",
+      "color": 15692211,
+      "description": "My Hero Academia is a superhero manga series written and illustrated by Kōhei Horikoshi. It has been serialized in Weekly Shōnen Jump since July 2014, and 20 volumes have been collected in tankōbon format.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "How do I subscribe to Vigilantes Manga news?",
+          "value": "React below to subscribe instantly!",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
