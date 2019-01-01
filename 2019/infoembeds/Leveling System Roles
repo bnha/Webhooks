@@ -1,0 +1,40 @@
+{
+  "embeds": [
+    {
+      "color": 14516079,
+      "image": {
+        "url": "https://i.imgur.com/6nvSCfz.png"
+      }
+    },
+    {
+      "title": "Leveling System Roles",
+      "color": 14516079,
+      "description": "By talking in our text channels and voice chat you earn XP all the time which levels you up and gives you new roles overtime! Here's an overview of our current 4 branches available.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "Hero Course",
+          "value": "**LV 1:**     Class 1A\n**LV 5:**    Class 2A\n**LV 10:**  Class 3A\n**LV 20:**  Intern",
+          "inline": true
+        },
+        {
+          "name": "Villains",
+          "value": "**LV 1:**     League of Villains\n**LV 5:**    Vanguard Squad\n**LV 10:**  Japan's Most Wanted\n**LV 20:**  Internationally Wanted",
+          "inline": true
+        },
+        {
+          "name": "I-Island",
+          "value": "**LV 1:**     Acacademy\n**LV 5:**    Assistant\n**LV 10:**  Scientist",
+          "inline": true
+        },
+        {
+          "name": "Support Course",
+          "value": "**LV 1:**    Class 1F\n**LV 5:**   Class 1G\n**LV 10:** Class 1E",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
