@@ -1,0 +1,24 @@
+{
+  "embeds": [
+    {
+      "color": 2133640,
+      "image": {
+        "url": "https://i.imgur.com/RMuEjj3.png"
+      }
+    },
+    {
+      "title": "My Hero Academia Houses",
+      "color": 2133640,
+      "description": "Harmony and poise are necessary to create equilibrium in the My Hero Academia universe. Without balance, society would descend into chaos.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      },
+      "fields": [
+        {
+          "name": "How do I join a house?",
+          "value": "Go to <#416765849844580353> and choose your house by doing one of the commands below!\n** **\n**House of Bravery**: `!!bravery`\n**House of Brilliance**: `!!brilliance`\n**House of Balance**: `!!balance`"
+        }
+      ]
+    }
+  ]
+}
