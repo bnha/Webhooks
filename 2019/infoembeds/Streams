@@ -1,0 +1,38 @@
+{
+  "embeds": [
+    {
+      "color": 16051511,
+      "image": {
+        "url": "https://i.imgur.com/gcDgh1r.png"
+      }
+    },
+    {
+      "title": "Stream Events on Rabb.it!",
+      "color": 16051511,
+      "description": "Want notifications for when we stream episodes, movies and other content? Than read more below!",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "footer": {
+      "text": "Stream Managers: Tommyfoxy2 and Tea-ra"
+      },
+      "fields": [
+        {
+          "name": "How do subscribe to stream news?",
+          "value": "Do ``!!stream`` in <#416765849844580353>",
+          "inline": true
+        },
+        {
+          "name": "Schedule",
+          "value": "Saturdays as soon as Sub is released\nat **4:30CST**",
+          "inline": true
+        },
+        {
+          "name": "Where do you stream?",
+          "value": "We stream on a platform called [rabb.it](https://www.rabb.it/profile/MyHeroAcademiaWiki) so be sure to make an account ahead of time and friend our official Rabb.it account [here](https://www.rabb.it/profile/MyHeroAcademiaWiki) so you can always join our party rooms.",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
