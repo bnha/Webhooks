@@ -1,0 +1,38 @@
+{
+  "embeds": [
+    {
+      "color": 1,
+      "image": {
+        "url": "https://i.imgur.com/5tHm4Ob.png"
+      }
+    },
+    {
+      "title": "Rules and Guidelines",
+      "color": 1,
+      "description": "Please be sure to read this info before starting to chat, it contains very important information.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "footer": {
+      "text": "Any further issue not stated here is up to the discretion of moderators and these rules are subject to change at anytime without prior notice."
+      },
+      "fields": [
+        {
+          "name": "Legal",
+          "value": "Abide by Discords [Terms of Service](https://discordapp.com/terms) and [Guidelines](https://discordapp.com/guidelines)",
+          "inline": false
+        },
+        {
+          "name": "Section 1",
+          "value": "```MARKDOWN\n#1 No spam\n- Memes and shitposting is allowed to a degree in #homeroom.\n#2 No advertising\n- Includes inviting people to other servers, social media accounts etc\n- If you are invited by someone who you do not know to another server, report it to Staff immediately.\n- In addition to the person who sent the invite, people who fail to report and join are at risk of being banned themselves.\n#3 Impersonation\n- Attempting to impersonate a Staff member (changing nickname and pfp to match that of a staff member) will result in a kick or ban\n#4 Appeals and Issues\n- Do not discuss staff actions in the channels or staff DMs.\n- If you wish to contest an infraction or discuss a staff action, please contact ONE hero via initial DM clearly.```",
+          "inline": true
+        },
+        {
+          "name": "Section 2",
+          "value": "```MARKDOWN\n#1 No awkward topics\n- Religion, politics, flirting, etc.\n- This includes anything controversial as well as anything regarding suicide.\n- Staff members are not counselors if necessary seek professional help.\n#2 Use only English\n- Unless you are quoting text in the context of the series.\n#3 Channels\n- Abide by the channel descriptions and pinned rules if applicable.\n#4 Avoid public drama\n- solve any issues in private or DM a moderator.```",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
