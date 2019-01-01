@@ -25,8 +25,13 @@
           "inline": true
         },
         {
+          "name": "Special Branches",
+          "value": "Don't want to be mainstream? Why not try these out!",
+          "inline": false
+        },
+        {
           "name": "I-Island",
-          "value": "**LV 1:**     Acacademy\n**LV 5:**    Assistant\n**LV 10:**  Scientist",
+          "value": "**LV 1:**     Academy\n**LV 5:**    Assistant\n**LV 10:**  Scientist",
           "inline": true
         },
         {
