@@ -1,0 +1,25 @@
+{
+  "embeds": [
+    {
+      "color": 2241387,
+      "image": {
+        "url": "https://i.imgur.com/BIFKkMK.png"
+      }
+    },
+    {
+      "title": "Vigilantes Manga",
+      "color": 2241387,
+      "description": "Koichi and his “friends”—Kazuho, a.k.a. Pop Step, and the mysterious Knuckleduster—have teamed up to protect their neighborhood (unofficially of course). But even petty criminals with Quirks can be dangerous, and taking them on shows Koichi that he’d better not underestimate them.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "How do I subscribe to Vigilantes Manga news?",
+          "value": "React below to subscribe instantly!",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
