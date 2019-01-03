@@ -1,0 +1,34 @@
+{
+  "embeds": [
+    {
+     "color": 15692211,
+     "image": {
+     "url": "https://i.imgur.com/E1RhC4I.png"
+      }
+    },
+    {
+      "title": "IMPORTANT CHANGE REGARDING MANGA RELEASES",
+      "color": 15209238,
+      "description": "__**This will be the last @everyone ping we ever do for Manga news.**__ In the future we'll only be pinging the <@&529406147804004352> role for the main series. \n** **\nOther series have their own roles we'll be pinging for their own releases.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"},
+            "fields": [
+        {
+          "name": "How do I sign up for Manga news?",
+          "value": "Open <#529573851936456714> and react the Manga you want pings for!"
+        }
+      ]
+    },
+        {
+      "title": "Next Chapter",
+      "color": 15692211,
+      "description": "Chapter 212 will be released **officially** this Sunday for free from VIZ!\n** **\n**Where can I read My Hero Academia online?**\n<https://myheroacademia.info/manga-series/>",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      },
+      "thumbnail": {
+      "url": "https://i.imgur.com/Ytx4aKA.jpg"
+      }
+    }
+  ]
+}
