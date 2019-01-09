@@ -1,0 +1,14 @@
+{
+  "embeds": [
+    {
+      "title": "New changes regarding Award roles",
+      "color": 15981122,
+      "fields": [
+      {
+      "name": "Patchnotes",
+      "value": "➤ New backend updates with handling Award role candidates.\n** **\n➤ Upon being approved for Uwabami, if the candidate is online they will be queried via DM if they'd like one or two of their relevant social media accounts optionally promoted as well.\n** **\n➤ If the candidate is offline at the time upon being approved for Uwabami and they have no links social media accounts on their Discord profile they will be promoted to Uwabami without any promotional opportunity.\n** **\n➤ Basically if you post **your own original art** and you have your own social media accounts you also post to, make sure to link them to your Discord profile in your settings."
+      }
+      ]
+    }
+  ]
+}
