@@ -1,0 +1,29 @@
+{
+  "embeds": [
+    {
+      "title": "Wow just wow, absolutely marvelous!",
+      "description": "Coming from the Twitter district <@USERIDHERE> has presented astonishing skills and has been noticed by the staff team! \n** **\n**Congratulations, PLUS ULTRA!**",
+      "color": 15981122,
+      "image": {
+      "url": "https://i.imgur.com/QHYftEB.jpg"
+      },
+        "thumbnail": {"url": "https://i.imgur.com/C60Oahx.gif"}
+    },
+    
+    {
+      "title": "Affiliated Twitter",
+      "color": 1942002,
+      "description": "We've verified their Twitter account which has many amazing artworks of theirs posted on it. If you're interested in more of her work I recommend taking a look at it on [Twitter](https://twitter.com/NAME/)",
+      "thumbnail": {"url": "https://i.imgur.com/Z1smq4T.png"},
+      "image": {"url": "https://i.imgur.com/sCJ6mOn.png"}
+    },
+     {
+      "title": "Affiliated Instagram",
+      "color": 14429053,
+      "description": "We've verified their Instagram account which has many amazing artworks of theirs posted on it. If you're interested in more of her work I recommend taking a look at it on [Instagram](https://twitter.com/NAME/)",
+      "thumbnail": {"url": "https://i.imgur.com/MzXSB53.png"},
+      "image": {"url": "https://i.imgur.com/sCJ6mOn.png"}
+    }
+    
+  ]
+}
