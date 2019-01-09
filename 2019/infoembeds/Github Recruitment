@@ -1,0 +1,14 @@
+{
+  "embeds": [
+    {
+      "title": "Interested in learning about making Webhooks like this?",
+      "color": 1,
+        "thumbnail": {
+        "url": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "description": "Create a [Github](https://github.com/) account and DM Tommy your username when you're finish account setup. \n** **\nYou'll receive an invite to the MHA Team which grants you access to a lot of our webhook code etc",
+      "thumbnail": {
+        "url": "https://i.imgur.com/0zHtgQU.png"}
+    }
+  ]
+}
