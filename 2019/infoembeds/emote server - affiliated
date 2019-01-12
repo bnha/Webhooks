@@ -1,0 +1,28 @@
+{
+  "embeds": [
+    {
+      "color": 7703515,
+      "image": {
+        "url": "https://i.imgur.com/NCAriKP.png"
+      }
+    },
+    {
+      "title": "Join the Official My Hero Academia Emote Servers!",
+      "color": 7703515,
+      "description": "View all our servers and their information on the popular site Discordbots!",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "thumbnail": {
+      "url": "https://i.imgur.com/H2LuKIj.png"
+      }, 
+      "fields": [
+        {
+          "name": "Link",
+          "value": "[**Click/Tap here to view servers**](https://discordbots.org/servers/search?q=Partnered%20My%20Hero%20Academia%20server)",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
