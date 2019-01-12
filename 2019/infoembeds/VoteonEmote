@@ -1,0 +1,25 @@
+{
+  "embeds": [
+    {
+      "color": 7805216,
+      "image": {
+        "url": "https://i.imgur.com/NCAriKP.png"
+      }
+    },
+    {
+      "title": "Vote on the next emote servers we should do!",
+      "color": 7805216,
+      "description": "Sometimes it's good to let people vote on stuff, best girls, favourite rocks, *why we should ban pineapples*... Anywho it's time for some voting! ",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "Vote on the next emote servers below",
+          "value": "[**Click/Tap to vote**](https://goo.gl/forms/k4gPup5OYOVHhHF92)",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
