@@ -1,0 +1,13 @@
+{
+  "embeds": [
+    {
+      "title": "I'm not interested in the laws or rules, but your voice I am!",
+      "description": "Coming from the karaoke district <@USERID> has been said to have an absolutely amazing voice. Never stop singing, we want more!\n** **\n**Congratulations, Plus Ultra!**",
+      "color": 11964415,
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      },
+        "thumbnail": {"url": "https://i.imgur.com/C60Oahx.gif"}
+    }
+  ]
+}
