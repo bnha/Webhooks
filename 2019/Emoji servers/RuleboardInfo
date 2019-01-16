@@ -1,0 +1,63 @@
+{
+  "username": "Information",
+  "avatar_url": "https://i.imgur.com/dfJQGiV.png",
+  "embeds": [
+    {
+      "title": "Ruleboard",
+      "description": "*Violations of the rules and/or Gaius auto-mod will result in harsh action.*",
+      "color": 2303786,
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      },
+      "fields": [
+        {
+          "name": "Abide by the Discord Guidelines and Terms of Service",
+          "value": "[Click to view them](https://discordapp.com/guidelines)",
+          "inline": false
+        },
+        {
+          "name": "Generic Rules",
+          "value": "**1)** Be wholesome.\n**2)** Respect the text channels you have access to.\n**3)** Staff have the final verdict.\n**4)** Need a staff? Ping **@Staff**, do not ping multiple times unless it's an emergency.",
+          "inline": false
+        },
+        {
+          "name": "How do I submit an emoji?",
+          "value": "Post the image and name you think would fit best in **#emote-ideas**. E.g ``:DekuHey:``. If the community thinks it's a good idea we'll add it!",
+          "inline": false
+        },
+        {
+          "name": "How do I get the original image or file for an emote?",
+          "value": "Open **#files**. We post all approved emojis there.",
+          "inline": false
+        },
+        {
+          "name": "What can I suggest for an emote?",
+          "value": "You can suggest anything that is related to this servers character. They should be original and something you've created or have permission to submit.",
+          "inline": false
+        },
+        {
+          "name": "Do you want partner requests?",
+          "value": "No.",
+          "inline": false
+        }
+      ]
+    },
+
+    {"description":
+"The official Discord Partnered server for the hit series My Hero Academia.  \n** **\nCome join the amazing community filled with events, streams, art and much more!",                                
+"color":2650964,                                    
+"thumbnail": {"url":"https://i.imgur.com/dfJQGiV.png"},
+"image": {
+"url": "https://i.imgur.com/sCJ6mOn.png"},
+"author": {"name": "Sponsored by the My Hero Academia Official Discord"},                  "fields": [{"name": "Server Invite", "value":
+"[Click to join](https://discord.gg/myheroacademia)",            "inline": true}]},
+
+   
+    {"description":
+"Want more Emojis of characters from My Hero Academia? Look no further! See all the **Official** servers below!",                                
+"color":7506394,                                    
+"thumbnail": {"url":"https://i.imgur.com/lbUn66f.png"},           
+"author": {"name": "Check out our other Emoji Servers on DSL"},      "image": {"url": "https://i.imgur.com/sCJ6mOn.png"},"fields": [{"name": "Discord Server List", "value":
+"[Click to view all our official Emoji servers](https://discordbots.org/servers/search?q=Partnered%20My%20Hero%20Academia%20server)",             "inline": true}]}
+  ]
+}
