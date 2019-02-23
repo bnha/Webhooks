@@ -1,0 +1,33 @@
+{
+ "avatar_url": "https://i.imgur.com/KWo1Rwy.png",
+ "embeds": [
+   {
+    "title": "My Hero Academia Wiki",
+    "color": 14674978,
+    "description": "We're affiliated with the My Hero Academia Wiki! A website dedicated to providing information on everything about the series that anyone can edit!",
+    "thumbnail": {
+          "url": "https://i.imgur.com/g7pC1v7.jpg"
+   },
+   "image": {"url": "https://i.imgur.com/sCJ6mOn.png"},
+   "fields": [
+     {
+     "name": "Link:",
+     "value": "[**Click/Tap here to check it out**](https://bokunoheroacademia.fandom.com/wiki/My_Hero_Academia_Wiki)"
+    }
+   ]
+  },
+  {
+   "title": "@BokuNoHeroWikia Twitter",
+   "color": 1942002,
+   "description": "Follow our official Twitter @BokuNoHeroWikia where we make informative posts, RT series relevant news & fanart and more!",
+   "thumbnail": {"url": "https://i.imgur.com/Z1smq4T.png"},
+   "image": {"url": "https://i.imgur.com/sCJ6mOn.png"},
+   "fields": [
+          {
+      "name": "Link:",
+      "value": "[**Click/Tap here to check it out**](https://twitter.com/bokunoherowikia?lang=en)"
+    }
+   ]
+  }
+ ]
+}
