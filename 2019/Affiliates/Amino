@@ -1,0 +1,20 @@
+{
+ "avatar_url": "https://i.imgur.com/C4McCKw.jpg",
+ "embeds": [
+   {
+    "title": "My Hero Academia Amino",
+    "color": 1168527,
+    "description": "Join the Amino community for My Hero Academia! Filled with tons of content including blogs, art, OCs and more!",
+    "thumbnail": {
+          "url": "https://i.imgur.com/JxXFFbD.png"
+   },
+   "image": {"url": "https://i.imgur.com/sCJ6mOn.png"},
+   "fields": [
+      {
+         "name": "Link:",
+         "value": "[**Click/Tap here to check it all out**](https://aminoapps.com/c/my-hero-academia/home/)"
+    }
+   ]
+  }
+ ]
+}
