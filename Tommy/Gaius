@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Gaius Cicereius Verified Program",
+      "description": "We help official servers meet compliance standards on Discord. Additionally we assist with server setups, bots and even reviews to ensure your community is up to modern standards on Discord.",
+      "color": 503021,
+      "thumbnail": {
+        "url": "https://i.imgur.com/VgChY8i.pngAut"
+      },
+      "image": {
+        "url": "https://i.imgur.com/5Gqe1Ow.png"
+      },
+      "fields": [
+        {
+          "name": "Available to:",
+          "value": "Content Creators, Wikis, Subreddits, Organizations, Studios and Companies",
+          "inline": false
+        },
+        {
+          "name": "Links",
+          "value": "**[Learn more](https://gaiusbot.me/verification/)** :small_orange_diamond: **[Support Server](https://discord.gg/C7SxkVh)**",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
