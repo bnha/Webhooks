@@ -1,0 +1,22 @@
+{
+  "embeds": [
+    {
+      "title": "Discord - Verification",
+      "description": "Verify your server so people know where to find their favorite artists, esports organizations, and game studios.",
+      "color": 9346041,
+      "thumbnail": {
+        "url": "https://discordapp.com/assets/28ed36711a92364163bb6dd969e706b5.svg"
+      },
+      "image": {
+        "url": "https://i.imgur.com/uzURdrK.png"
+      },
+      "fields": [
+        {
+          "name": "Available to:",
+          "value": "Music artists, ESports organizations, Publishers, and Game Studios. **[Learn more](https://discordapp.com/verification)**",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
