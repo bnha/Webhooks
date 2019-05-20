@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Discord - Open Source Program",
+      "description": "Discord is committed to the principles of open source development: that we all succeed when we work together as engineers and share our solutions",
+      "color": 9346041,
+      "thumbnail": {
+        "url": "https://i.imgur.com/ItlN1OQ.png"
+      },
+      "image": {
+        "url": "https://cdn-images-1.medium.com/max/2400/1*Cp6gsHPSSldjx0y_fe8_5A.png"
+      },
+      "fields": [
+        {
+          "name": "Available to:",
+          "value": "Open Source\ncommunities",
+          "inline": true
+        },
+        {
+          "name": "Links",
+          "value": ":small_blue_diamond: **[Learn more](https://discordapp.com/open-source)** \n:small_blue_diamond: **[How to apply](https://github.com/discordapp/discord-open-source#open-source-communities-on-discord)**",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
